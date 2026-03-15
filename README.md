@@ -24,4 +24,4 @@ Install a plugin:
 
 ## License
 
-MIT                
+MIT                 
