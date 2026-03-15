@@ -1,6 +1,7 @@
 .idea/
 .DS_Store
 Thumbs.db
-/.claude/settings.local.json
-/.serena/.gitignore
-/.serena/project.yml
+/_tmp/.claude/settings.local.json
+/.serena/
+/_tmp/
+
