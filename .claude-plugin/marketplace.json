@@ -1,0 +1,24 @@
+{
+  "name": "bazilio-plugins",
+  "owner": {
+    "name": "Viacheslav Makarov",
+    "email": "npmjs@bazilio.ru"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Bazilio-san",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "claude-notification-plugin",
+      "source": {
+        "source": "github",
+        "repo": "Bazilio-san/claude-notification-plugin"
+      },
+      "description": "Telegram, Windows toast, sound, and voice notifications for Claude Code task completion",
+      "homepage": "https://github.com/Bazilio-san/claude-notification-plugin",
+      "license": "MIT",
+      "keywords": ["notification", "telegram", "windows", "sound", "voice", "hooks"]
+    }
+  ]
+}
