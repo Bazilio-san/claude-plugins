@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by Bazilio-san",
-    "version": "1.0.36"
+    "version": "1.0.37"
   },
   "plugins": [
     {
@@ -15,7 +15,7 @@
         "source": "github",
         "repo": "Bazilio-san/claude-notification-plugin"
       },
-      "description": "Claude Code notifications щт task completion: Telegram, Windows toast, sound, and voice",
+      "description": "Claude Code task-completion notifications: Telegram, desktop notifications (Windows/macOS/Linux), sound, and voice",
       "homepage": "https://github.com/Bazilio-san/claude-notification-plugin",
       "license": "MIT",
       "keywords": ["notification", "telegram", "windows", "sound", "voice", "hooks"]
