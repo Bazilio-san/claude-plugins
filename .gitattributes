@@ -1,0 +1,7 @@
+.claude/            export-ignore
+.gitignore          export-ignore
+.gitattributes      export-ignore
+.run/               export-ignore
+CLAUDE.md           export-ignore
+bump-version.sh     export-ignore
+scripts/            export-ignore
