@@ -6,7 +6,7 @@ Plugin marketplace for Claude Code by [Bazilio-san](https://github.com/Bazilio-s
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [claude-notification-plugin](https://github.com/Bazilio-san/claude-notification-plugin) | 1.1.9 | Claude Code notifications on task completion: Telegram, Windows toast, sound, and voice |
+| [claude-notification-plugin](https://github.com/Bazilio-san/claude-notification-plugin) | 1.1.10 | Claude Code notifications on task completion: Telegram, Windows toast, sound, and voice |
 
 ## Install
 
