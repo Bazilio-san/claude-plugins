@@ -1,0 +1,13 @@
+{
+  "name": "smoke-break",
+  "version": "1.0.0",
+  "description": "Periodically nudges the agent to step back and reassess long-running turns",
+  "author": {
+    "name": "Viacheslav Makarov",
+    "email": "npmjs@bazilio.ru"
+  },
+  "homepage": "https://github.com/Bazilio-san/claude-plugins/tree/master/plugins/smoke-break",
+  "repository": "https://github.com/Bazilio-san/claude-plugins",
+  "license": "MIT",
+  "keywords": ["hooks", "reflection", "productivity", "long-running-turns"]
+}

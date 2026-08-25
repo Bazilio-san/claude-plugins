@@ -6,9 +6,17 @@
   },
   "metadata": {
     "description": "Claude Code plugins by Bazilio-san",
-    "version": "1.0.142"
+    "version": "1.0.144"
   },
   "plugins": [
+    {
+      "name": "smoke-break",
+      "source": "./plugins/smoke-break",
+      "description": "Periodically nudges the agent to step back and reassess long-running turns",
+      "homepage": "https://github.com/Bazilio-san/claude-plugins/tree/master/plugins/smoke-break",
+      "license": "MIT",
+      "keywords": ["hooks", "reflection", "productivity", "long-running-turns"]
+    },
     {
       "name": "claude-notification-plugin",
       "source": {
